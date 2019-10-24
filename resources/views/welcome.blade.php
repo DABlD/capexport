@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Cap Export v1.0
+                    Cap't Export v1.0
                 </div>
 
                 <div class="links">
